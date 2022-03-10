@@ -1,0 +1,10 @@
+第一步:打开cmd 输入 vue init webpack 项目名
+
+第二步 : Install vue-router ----这个地方要yes
+
+
+第三步:现在已经创建好了，那就让项目先安装下依赖再运行一下，会出现下面的页面，操作指令是：
+
+cnpm install
+
+cnpm run dev
